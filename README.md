@@ -2,7 +2,7 @@
 
 ## Getting Started
 ```
-git clone
+git clone https://github.com/daryllman/WeatherNow-Flutter-Application.git
 ```
 
 ## Our Goal
